@@ -1,0 +1,19 @@
+.download_btn
+{
+   font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-size: medium;
+  letter-spacing: 2px;
+  font-style:italic;
+  border: 2px solid gold;
+  padding: 10px 20px;
+    background-color: #CECBC8;
+   border-radius: 10dvh;
+   width: 30vw;
+   height: 10vh;
+   border-color:#7F6951;
+}
+.btn_container
+{
+    padding: 10px;
+}

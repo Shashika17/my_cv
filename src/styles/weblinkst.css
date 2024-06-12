@@ -1,0 +1,17 @@
+.connection
+{
+    /* background-color: aliceblue;
+    width: ; */
+    padding: 20px; /* Adjust the padding to create the border size you want */
+    background-color: white; /* Border color */
+    display: inline-block; /* Ensures the QR code and padding are treated as a single block */
+    border-radius: 10px; /* Optional: adds rounded corners to the border */
+    position: relative;
+    margin: 0 auto;
+}
+  
+  p{
+    color: aliceblue;
+   /* Adjust font size */
+  }
+  

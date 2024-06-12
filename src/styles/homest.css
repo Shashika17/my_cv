@@ -1,0 +1,23 @@
+.heading
+{
+    background-color: #28221E;
+    height: 100vh;
+    width: 100vw;
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+h1
+{
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  color: aliceblue;   
+  letter-spacing: 4px;
+}
+p
+{
+    font-family: "Gwendolyn", cursive;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 2px;
+}
