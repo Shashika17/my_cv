@@ -26,11 +26,11 @@ function Web_link() {
     <div>
     <div className='connection'>
       <QRCode value={fileUrl} 
-       size={156} // size of the QR code
-       bgColor="#ffffff" // background color
-       fgColor="#000000" // foreground color
+       size={156} 
+       bgColor="#ffffff" 
+       fgColor="#000000" 
        level="H"
-       solid = "white" // error correction level ('L', 'M', 'Q', 'H')
+       solid = "white" 
       />
     </div>
     {/* <p>Scan QR to download My CV</p> */}
